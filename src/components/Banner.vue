@@ -14,9 +14,7 @@
         </div>
         <img src="../assets/images/foto-banner.png" alt="..." class="foto-banner">
 
-        <h1 class="titulo">
-            Texto do App.vue
-        </h1>
+
     </header>
 </template>
 
